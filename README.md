@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @anaaak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- # Sobre mim
+-  👋 Olá meu nome é @anaaak
+- :+1: Meu e-mail de contato é ana.silva.oliveira21@escola.pr.gov.br
+- 👀 Estou interessado em aprender a programar novas línguagens.
+- 🌱 IEstou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 
-<!---
-anaaak/anaaak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-anaaak
+
